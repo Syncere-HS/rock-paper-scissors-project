@@ -1,3 +1,9 @@
+alert("Open the console (Option + Command + I)")
+
+
+
+
+
 let max = 4
 let number = Math.floor(Math.random() * max);
 let computerChoice
